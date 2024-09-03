@@ -1,14 +1,15 @@
 # Welcome to Our GitHub Profile!
 
-### 👋 Hi there! We're Varun Kulkarni and Utsav Shekhar
+### 👋 Hi there! We're Varun Kulkarni,Trigun Gurumurti Tamragouri and Utsav Shekhar
 
-We're two passionate developers collaborating on an exciting project to create a dynamic social media website. Our goal is to build a platform that connects people, fosters communication, and enhances user experience through innovative features.
+We're three passionate developers collaborating on an exciting project to create a dynamic social media website. Our goal is to build a platform that connects people, fosters communication, and enhances user experience through innovative features.
 
 ### 🌟 About Us
 
 - **Varun Kulkarni**: A full-stack developer with a keen interest in web development, coding, and creating user-friendly interfaces.
+- **Trigun Gurumurti Tamragouri**: A full stack developer, making me well-equipped for both backend and frontend challenges.Also Proficient in DSA in C++.
 - **Utsav Shekhar**: A software engineer with a love for backend development, database management, and ensuring smooth server-side operations.
-
+  
 ### 🚀 Our Project
 
 We're working on a social media website that will include:
