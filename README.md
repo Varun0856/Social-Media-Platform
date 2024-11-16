@@ -7,7 +7,7 @@ We're three passionate developers collaborating on an exciting project to create
 ### 🌟 About Us
 
 - **Varun Kulkarni**: A full-stack developer with a keen interest in web development, coding, and creating user-friendly interfaces.
-- **Trigun Gurumurti Tamragouri**: A front-end developer, making me well-equipped for frontend challenges.
+- **Trigun Gurumurti Tamragouri**: A **front-end** developer, making me well-equipped for frontend challenges.
 - **Utsav Shekhar**: A software engineer with a love for backend development, database management, and ensuring smooth server-side operations.
   
 ### 🚀 Our Project
